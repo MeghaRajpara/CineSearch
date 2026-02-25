@@ -3,6 +3,7 @@
 A polished, full-featured movie search app built with **React JS**.  
 Search millions of movies, view detailed info, and save your favourites — all powered by the free OMDB API.
 
+Demo URL: [Demo](https://super-trifle-167345.netlify.app/)
 ---
 
 ## ✨ Features
@@ -32,7 +33,7 @@ Search millions of movies, view detailed info, and save your favourites — all 
 
 If you have Git installed:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MeghaRajpara/CineSearch.git
 cd movie-search-app
 ```
 
